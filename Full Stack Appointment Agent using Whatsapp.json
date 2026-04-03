@@ -883,7 +883,7 @@
           "parameters": [
             {
               "name": "Authorization",
-              "value": "Bearer  sk_test_51TFvWjJ2dmAX9GaMUcljF8KoMlN20vKWb9DD2UArIrWVU5TkX0DCl8sjGzseYi3Me182N9YYj2qLiCEcXaPGMXgb00EP9gxkSi"
+              "value": "Bearer  YOUR_STRIPE_API_KEY"
             },
             {
               "name": "Content-Type",
@@ -997,7 +997,7 @@
           "parameters": [
             {
               "name": "Authorization",
-              "value": "Bearer  sk_test_51TFvWjJ2dmAX9GaMUcljF8KoMlN20vKWb9DD2UArIrWVU5TkX0DCl8sjGzseYi3Me182N9YYj2qLiCEcXaPGMXgb00EP9gxkSi"
+              "value": "Bearer  YOUR_STRIPE_API_KEY""
             },
             {
               "name": "Content-Type",
@@ -1318,7 +1318,7 @@
           "parameters": [
             {
               "name": "Authorization",
-              "value": "Bearer  sk_test_51TFvWjJ2dmAX9GaMUcljF8KoMlN20vKWb9DD2UArIrWVU5TkX0DCl8sjGzseYi3Me182N9YYj2qLiCEcXaPGMXgb00EP9gxkSi"
+              "value": "Bearer YOUR_STRIPE_API_KEY"
             },
             {
               "name": "Content-Type",
